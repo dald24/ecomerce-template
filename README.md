@@ -1,2 +1,2 @@
 # ecomerce-template
-Landing page para un eccomerce
+Landing page para un ecomerce
